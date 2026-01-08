@@ -17,7 +17,8 @@ Feature Engineering: Region features, SIFT/SURF, and object segmentation.
 
 Modern Vision: Deep Convolutional Networks (CNNs), Transformers, and Generative Models (GANs/Diffusion).
 
-🚀 Projects
+#🚀 Projects
+
 The curriculum consists of six projects developed using C++, Python, OpenCV, and PyTorch.
 
 Projects coming soon... 
@@ -37,6 +38,9 @@ Environment: CMake / VS Code
 
 🧠 Key Concepts Covered
 Filtering: Linear, Bilateral, and Fourier Transforms.
+
 Geometry: Stereo Vision, Rectification, and Optical Flow.
+
 State Estimation: Kalman Filters and Visual SLAM.
+
 Deep Models: Object localization, Style Transfer, and Diffusion Networks.
