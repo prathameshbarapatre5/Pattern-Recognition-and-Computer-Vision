@@ -1,6 +1,8 @@
 ## CS 5330: Pattern Recognition and Computer Vision
 
 Northeastern University | Spring 2026 | Prof. Bruce Maxwell
+
+
 This repository contains my implementations of computer vision systems developed during CS 5330. The course covers the full spectrum of vision, from fundamental image formation and classical filtering to modern deep learning architectures.
 
 📚 Course Overview
