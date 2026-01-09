@@ -1,0 +1,11 @@
+build/
+opencv/
+*.exe
+*.dll
+*.o
+*.obj
+.vscode/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
